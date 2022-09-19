@@ -1,0 +1,21 @@
+body {background-color: antiquewhite;}
+
+
+h3 {
+    color: blue;
+}
+
+.bigbox {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+   
+
+}
+
+.smallbox {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    
+}
